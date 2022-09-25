@@ -1,0 +1,37 @@
+body{
+    
+    margin: 20px;
+}
+
+.imagen{
+    
+    width: 300px;
+    border: 5px solid #4d4dff;
+    border-radius: 15px;
+}
+
+.main{
+    
+    justify-content: center;
+    display: flex;
+}
+
+.container{
+    color: #2b2839;
+    background: #ddebf8;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    width: 600px;
+    justify-content: space-around;
+    border-bottom: 8px solid #d8cefe;
+    font-family: monospace;
+}
+
+
+
+.italic{
+    
+    font-style: italic;
+}
+
